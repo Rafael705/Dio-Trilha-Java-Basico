@@ -1,3 +1,5 @@
+package Sintaxe;
+
 import java.util.Scanner;
 
 public class ContaBanco {
