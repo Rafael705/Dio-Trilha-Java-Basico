@@ -62,6 +62,10 @@ Aprenda a tratar erros com `try`, `catch`, `finally` e entenda a hierarquia de e
 - Captura múltipla de exceções
 - Diferença entre `Error` e `Exception`
 
+## ☁️ Módulo 6 - Introdução a nuvem
+📄 [**Azure.md**](https://github.com/Rafael705/Dio-Trilha-Java-Basico/blob/main/Aulas/Azure.md)  
+- 
+
 ---
 
 ## 🧑‍💻 Autor
